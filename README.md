@@ -37,7 +37,7 @@ Ensure any custom datasets follow this structure.
 
 Files in this repository follow a naming convention: `modality_frequency_throttle-value_run_number.csv`
 
-- **maneuver**: Type of maneuver (Skidpad,Fishhook,Slalom,Eight) for data collection.
+- **modality**: Type of teleoperation modality (Keyboard, Joystick, Steering Wheel) used for data collection.
 - **frequency**: Indicates the frequncy at which data is collected.
 - **throttle**: Indicates the locked throttle input.
 
